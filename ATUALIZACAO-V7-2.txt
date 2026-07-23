@@ -1,0 +1,1 @@
+Painel V7.2: ações de cada cliente organizadas em engrenagem, com +30, +90 e +365 dias.
