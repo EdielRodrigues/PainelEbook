@@ -1,0 +1,6 @@
+ATUALIZAÇÃO V6
+- Menu do administrador oculto em botão de engrenagem.
+- Atualizar e Sair ficam dentro do menu.
+- Pagamentos pendentes podem ser cancelados.
+- Pagamentos aprovados podem ser reembolsados; o acesso vinculado é bloqueado.
+- Requer publicar também o backend V6 no Render.

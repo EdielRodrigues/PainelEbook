@@ -1,0 +1,5 @@
+VERSÃO 7 — PAINEL PIX + CARTÃO
+
+- Filtro por forma de pagamento.
+- Coluna de parcelas.
+- Cancelamento/reembolso mantido.
