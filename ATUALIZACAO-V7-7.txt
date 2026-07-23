@@ -1,0 +1,5 @@
+VERSÃO 7.7 — PAINEL DE VÍDEOS
+
+- Nova seção para adicionar um link em cada passo do Guia para Iniciantes.
+- Salva os links em /guideVideos no Firebase Realtime Database.
+- Publique database.rules.json atualizado.

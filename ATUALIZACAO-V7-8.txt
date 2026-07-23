@@ -1,0 +1,5 @@
+ATUALIZAÇÃO V7.8 — CONTROLE DE ATUALIZAÇÃO
+
+Nova seção no painel para informar última versão, versão mínima, link do APK e mensagem.
+Ative Forçar atualização para bloquear aplicativos antigos.
+Publique também database.rules.json no Firebase.
