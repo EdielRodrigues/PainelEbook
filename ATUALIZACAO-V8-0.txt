@@ -1,0 +1,5 @@
+PAINEL V8.0
+
+- Filtros Pix, crédito e débito.
+- Exibição correta da forma de pagamento.
+- Reembolso sincronizado e botão alterado para Reembolsado após conclusão.
